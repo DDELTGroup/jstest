@@ -1,1 +1,2 @@
-document.getElementbyID("demo").innerHTML = "Hello, world!";
+const demo = document.getElementbyID("demo");
+demo.innerHTML = "Hello World";
